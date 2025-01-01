@@ -186,5 +186,5 @@ st.markdown("""
 
 #### Bíblia Web App | ACF
 💬 Por Ary Ribeiro. Contato, através do email: aryribeiro@gmail.com
-\n Obs.: esse aplicativo web construído com API pública, de terceiros. Caso a busca esteja lenta, favor aguardar.
+\n Obs.: esse aplicativo web foi construído com API pública, de terceiros. Caso a busca esteja lenta, favor aguardar.
 """)
