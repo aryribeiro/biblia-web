@@ -2,3 +2,4 @@ streamlit
 requests
 cachetools
 ratelimit
+urllib3
