@@ -1,8 +1,7 @@
 Obs.: caso o app esteja no modo "sleeping" (dormindo) ao entrar, basta clicar no botão que estará disponível e aguardar, para ativar o mesmo. 
 ![print biblia web producao](https://github.com/user-attachments/assets/2e845126-48af-4c2e-a78b-1e3fe989edd9)
 
-## README - Bíblia Web App
-📖 Bíblia Web App
+## 📖 Bíblia Web App
 
 Este é um aplicativo web desenvolvido com [Streamlit](https://streamlit.io/) que permite aos usuários navegar pelas Escrituras Sagradas em português (versão Almeida Corrigida Fiel) e realizar buscas por palavras dentro de um livro específico.
 
